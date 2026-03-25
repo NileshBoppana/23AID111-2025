@@ -19,7 +19,6 @@ public class Main57 {
             System.out.println("Balance: " + balance);
         }
     }
-
     public static void main(String[] args) {
 
         Account a1 = new Account(101);
